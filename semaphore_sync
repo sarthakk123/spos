@@ -40,3 +40,4 @@ consumer_thread.start()
 producer_thread.join()
 consumer_thread.join()
 print("\nAll items produced and consumed successfully using Semaphores!")
+
