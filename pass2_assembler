@@ -1,5 +1,3 @@
-# PASS-II of Two Pass Assembler (Simple Version)
-# Amit Kolpe - 2025
 
 symbol_table = {
     "X": 214,
@@ -105,3 +103,4 @@ for line in intermediate_code:
         lc += 1
 
 print("\n--- END OF MACHINE CODE ---")
+
